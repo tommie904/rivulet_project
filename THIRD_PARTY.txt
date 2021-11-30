@@ -1,1 +1,12 @@
+Rivulet uses the following third party packages to operate:
 
+DiscordRichPresence by Lachee
+FirebaseAdmin by Google Inc.
+FluentWPF by FluentWPF
+HtmlAgilityPack by ZZZ Projects,Simon Mourrier,Jeff Klawiter,Stephan Grell
+ini-parser by Ricardo Amores Hernández
+JikanDotNet by Bartłomiej Buchała
+Kitsu by Kurozero
+ModernWpfUI by Yimeng Wu
+PuppeteerSharp by Darío Kondratiuk
+WPFMediaKit by WPF MediaKit Team
